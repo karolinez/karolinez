@@ -1,16 +1,14 @@
 ### Hi there 👋
+#### I'm a student of tecnology. And, I'm studying web develompment at [Rocketseat] (https://www.rocketseat.com.br/)
 
-<!--
-**karolinez/karolinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current stack
+- `Css`, `Java script` e `HTML`
+- Layout: `Figma`;
+- Tools: `Vscode`.
 
-Here are some ideas to get you started:
+#### Contacts
+- Email: karolinesantos123.ks@gmail.com
+- Linkedin: https://www.linkedin.com/in/karoline-souza-a14918158/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Other Skills
+PCP, S&OP
