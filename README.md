@@ -5,6 +5,7 @@
 - `Css`, `Java script` e `HTML`
 - Layout: `Figma`;
 - Tools: `Vscode`.
+- Nodejs
 
 #### Contacts
 - Email: karolinesantos123.ks@gmail.com
