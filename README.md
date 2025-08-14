@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a student of tecnology. And, I'm studying web develompment at [Rocketseat](https://www.rocketseat.com.br/).
+#### I'm a student of tecnology. And, I'm studying web develompment at B7Web.
 
 #### Current stack
 - `Css`, `Java script` e `HTML`
